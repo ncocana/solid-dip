@@ -1,5 +1,11 @@
 # SOLID - DIP
 
+**Table of contents**
+
+- [SOLID - DIP](#solid---dip)
+  - [DIP (Dependency Inversion Principle)](#dip-dependency-inversion-principle)
+  - [Instructions](#instructions)
+
 ## DIP (Dependency Inversion Principle)
 
 The Dependency Inversion Principle states that high-level modules should not depend on low-level modules. Instead, both should depend on abstractions (interfaces or abstract classes). In addition, abstractions should not depend on details; details should depend on abstractions.   
