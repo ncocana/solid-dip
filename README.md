@@ -3,8 +3,13 @@
 **Table of contents**
 
 - [SOLID - DIP](#solid---dip)
+  - [Introduction](#introduction)
   - [DIP (Dependency Inversion Principle)](#dip-dependency-inversion-principle)
   - [Instructions](#instructions)
+
+## Introduction
+
+This is an exercise proposed by our teacher, [dfleta](https://github.com/dfleta), to practice and better understand the Dependency Inversion Principle (DIP) of the SOLID principles.   
 
 ## DIP (Dependency Inversion Principle)
 
